@@ -1,1 +1,22 @@
+/*responsive*/ 
+@media (min-width: 990px) { 
+.product-display img{
+	width:250px;
+}
 
+} 
+@media only screen and (max-width: 768px) { 
+.product-display img{
+	width:318px;
+}
+
+} 
+@media only screen and (max-width: 479px) { 
+.product-display img{
+	width:431px;
+}
+} 
+
+.product-display img{
+	width:431px;
+}
